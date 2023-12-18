@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "id": "fallthroughslime",
-  "version": "3.1",
+  "version": "3.2",
 
   "name": "Fall Through Slime",
   "description": "Slime blocks no longer support your weight when standing still, and you'll slowly fall through.",
   "authors": [ "Rick South" ],
   "contact": {
-    "homepage": "https://curseforge.com/minecraft/mc-mods/fall-through-slime",
-    "sources": "https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Fall%20Through%20Slime",
-    "issues": "https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Fall%20Through%20Slime"
+    "homepage": "https://serilum.com/mod/fall-through-slime",
+    "sources": "https://github.com/Serilum/Fall-Through-Slime",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Fall%20Through%20Slime"
   },
 
   "license": "All Right Reserved",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=17",
-    "collective": ">=7.3"
+    "collective": ">=7.21"
   },
 
   "custom": {
