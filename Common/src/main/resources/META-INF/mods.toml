@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="fallthroughslime"
-version="3.2"
+version="3.3"
 displayName="Fall Through Slime"
 displayURL="https://serilum.com/mod/fall-through-slime"
 authors="Rick South"
@@ -22,7 +22,7 @@ If you would like to contribute too, check out https://serilum.com/donate. Appre
 [[dependencies.fallthroughslime]]
     modId="collective"
     mandatory=true
-    versionRange="[7.53,)"
+    versionRange="[7.54,)"
     ordering="NONE"
     side="BOTH"
 
