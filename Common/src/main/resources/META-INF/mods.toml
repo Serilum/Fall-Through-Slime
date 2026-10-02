@@ -1,29 +1,29 @@
 modLoader="javafml"
 loaderVersion="*"
-license="All rights reserved"
+license="All Rights Reserved"
 issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Fall%20Through%20Slime"
 logoFile="icon.png"
 
 [[mods]]
 modId="fallthroughslime"
-version="3.5"
+version="3.6"
 displayName="Fall Through Slime"
 displayURL="https://serilum.com/mod/fall-through-slime"
-authors="Rick South"
+authors="Serilum"
 description='''Slime blocks no longer support your weight when standing still, and you'll slowly fall through.
 '''
 credits='''Thank you very much to my Membership sponsors for supporting the development of this mod:  
 
-Alister, Andrean Olgo, aternosorg, Cherriesaurus, David Sanchez, drdog111, Michael W. S., t128, Tyler Behl, XAgent   
+Andrean Olgo, AnyankaT, aternosorg, Cherriesaurus, Linda Jansen, MWS, Tyler Behl   
 
-If you would like to contribute too, check out https://serilum.com/donate. Appreciate it! <3   
+If you would like to contribute too, check out https://serilum.com/donate Appreciate it! <3   
 '''
 
 [[dependencies.fallthroughslime]]
     modId="collective"
     type="required"
     mandatory=true
-    versionRange="[7.91,)"
+    versionRange="[8.40,)"
     ordering="NONE"
     side="BOTH"
 

@@ -1,9 +1,9 @@
-package com.natamus.fallthroughslime;
+package com.serilum.fallthroughslime;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.fallthroughslime.forge.events.ForgeSlimeEvent;
-import com.natamus.fallthroughslime.util.Reference;
+import com.serilum.fallthroughslime.forge.events.ForgeSlimeEvent;
+import com.serilum.fallthroughslime.util.Reference;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
@@ -28,7 +28,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	MinecraftForge.EVENT_BUS.register(ForgeSlimeEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeSlimeEvent.class);
 	}
 
 	private static void setGlobalConstants() {
