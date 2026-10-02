@@ -1,6 +1,6 @@
-package com.natamus.fallthroughslime.neoforge.events;
+package com.serilum.fallthroughslime.neoforge.events;
 
-import com.natamus.fallthroughslime.events.SlimeEvent;
+import com.serilum.fallthroughslime.events.SlimeEvent;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.entity.player.Player;

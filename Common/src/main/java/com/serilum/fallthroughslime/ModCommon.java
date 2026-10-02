@@ -1,4 +1,4 @@
-package com.natamus.fallthroughslime;
+package com.serilum.fallthroughslime;
 
 
 public class ModCommon {

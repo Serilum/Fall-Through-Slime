@@ -1,9 +1,9 @@
-package com.natamus.fallthroughslime;
+package com.serilum.fallthroughslime;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.fallthroughslime.neoforge.events.NeoForgeSlimeEvent;
-import com.natamus.fallthroughslime.util.Reference;
+import com.serilum.fallthroughslime.neoforge.events.NeoForgeSlimeEvent;
+import com.serilum.fallthroughslime.util.Reference;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
