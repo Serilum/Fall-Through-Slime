@@ -1,10 +1,10 @@
-package com.natamus.fallthroughslime;
+package com.serilum.fallthroughslime;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectivePlayerEvents;
-import com.natamus.fallthroughslime.events.SlimeEvent;
-import com.natamus.fallthroughslime.util.Reference;
+import com.serilum.fallthroughslime.events.SlimeEvent;
+import com.serilum.fallthroughslime.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;

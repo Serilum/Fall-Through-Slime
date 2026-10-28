@@ -1,4 +1,4 @@
-package com.natamus.fallthroughslime.events;
+package com.serilum.fallthroughslime.events;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
